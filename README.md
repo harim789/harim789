@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi there
 <!--
 **harim789/harim789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harim789/CodeTree_badge_generator/output/codetree-dark.svg">
-  <img alt="코드트리 학습 현황" src="https://raw.githubusercontent.com/harim789/CodeTree_badge_generator/output/codetree-light.svg">
-</picture>
